@@ -10,7 +10,7 @@ body {
   
   section {
     text-align: center;
-    width: 90vw;
+    width:85%;
     max-width: 450px;
     height: auto;
     background-color: #ece8d9;
@@ -35,7 +35,7 @@ body {
   #display {
     background-color: #494949;
     border-radius: 15px;
-    width: 85vw;
+    width: 85%;
     height: 90px;
     color: white;
     font-size: 60px;
